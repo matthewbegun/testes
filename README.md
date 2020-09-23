@@ -7,5 +7,6 @@
 # testes
 > both of them
 
+## open that repo!
 - [codespace](https://github.com/codespaces/matthewbegun-testes-2jhr)
 - [binder](https://mybinder.org/v2/gh/matthewbegun/testes/main)
