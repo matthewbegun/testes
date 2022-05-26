@@ -8,3 +8,5 @@
 ## open that repo!
 - [codespace](https://matthewbegun-testes-pj7r5qjj3xr9.github.dev/)
 - [binder](https://mybinder.org/v2/gh/matthewbegun/testes/main)
+- [nb](https://matthewbegun-testes-pj7r5qjj36gq-8888.githubpreview.dev/)
+
